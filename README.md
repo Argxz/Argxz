@@ -23,10 +23,6 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer who loves wor
 - TypeScript
 - Integration AI for Web-Apps
 
-## 📈 GitHub Stats
-
-![Argxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Argxz&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 
 - LinkedIn: [Profile](https://www.linkedin.com/in/riyanargaw/)
